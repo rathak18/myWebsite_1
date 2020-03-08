@@ -1,0 +1,26 @@
+h1{
+	color:blue;
+	font-style: bold;
+	font-size: 20px;
+
+}
+body{
+	background-color:grey;
+}
+ul{
+	float: right;
+	display:inline-block;
+
+}
+li{
+	display: inline-block;
+	padding: 10px;
+	list-style: none;
+}
+#brand{
+	float: left;
+	border-bottom-style: none;
+}
+a{
+	color:white;
+}
